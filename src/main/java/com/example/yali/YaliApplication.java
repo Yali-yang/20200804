@@ -8,7 +8,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 @SpringBootApplication
 @EnableAspectJAutoProxy
 public class YaliApplication {
-    // 这是0806的分支
+    // 这是0806的分支 第二次测试
 
     public static void main(String[] args) {
         SpringApplication.run(YaliApplication.class, args);
